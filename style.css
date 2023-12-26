@@ -7,9 +7,9 @@ main {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	text-align: center;
 
 	h1 {
-		text-align: center;
 		font-size: 46px;
 	}
 
