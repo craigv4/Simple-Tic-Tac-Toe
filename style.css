@@ -20,19 +20,6 @@ main {
 		justify-content: center;
 		align-items: center;
 
-		.turn {
-			display: flex;
-			width: 450px;
-			justify-content: center;
-			margin: 24px;
-		}
-		.border {
-			border: #b6bbc4 solid 2px;
-			border-radius: 12px;
-			background-color: #b6bbc4;
-			color: #31304d;
-		}
-
 		h2 {
 			font-size: 24px;
 			width: 32px;
@@ -74,6 +61,7 @@ main {
 			}
 		}
 		button {
+			font-family: 'Silkscreen', sans-serif;
 			font-size: 32px;
 			width: 164px;
 			height: 82px;
